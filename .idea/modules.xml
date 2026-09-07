@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2iBi.iml" filepath="$PROJECT_DIR$/.idea/2iBi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio 2iBi/Desafio.iml" filepath="$PROJECT_DIR$/Desafio 2iBi/Desafio.iml" />
+    </modules>
+  </component>
+</project>
